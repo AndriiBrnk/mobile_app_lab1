@@ -1,0 +1,43 @@
+export const dictionaries = {
+  uk: {
+    work_mode: 'Час працювати',
+    break_mode: 'Перерва',
+    long_break_mode: 'Довга перерва',
+    start: 'Старт',
+    pause: 'Пауза',
+    reset: 'Скинути',
+    settings: 'Налаштування',
+    save: 'Зберегти',
+    hours: 'ГГ',
+    minutes: 'ХВ',
+    seconds: 'СС',
+    auto_break: 'Автозапуск перерви',
+    immediate_apply: 'Застосувати негайно',
+    work_settings: 'Тривалість роботи',
+    break_settings: 'Коротка перерва',
+    long_break_settings: 'Довга перерва',
+    sessions_count: 'Сесій до довгої перерви',
+    debug_mode: 'Режим дебагу (швидкий час)'
+  },
+  en: {
+    work_mode: 'Work Time',
+    break_mode: 'Break Time',
+    long_break_mode: 'Long Break',
+    start: 'Start',
+    pause: 'Pause',
+    reset: 'Reset',
+    settings: 'Settings',
+    save: 'Save',
+    hours: 'HH',
+    minutes: 'MM',
+    seconds: 'SS',
+    auto_break: 'Auto-start Break',
+    immediate_apply: 'Apply immediately',
+    work_settings: 'Work Duration',
+    break_settings: 'Short Break Duration',
+    long_break_settings: 'Long Break Duration',
+    sessions_count: 'Sessions before Long Break',
+    language: 'Language',
+    debug_mode: 'Debug Mode (Fast time)'
+  }
+};
